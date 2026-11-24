@@ -61,6 +61,16 @@ Visualisations include:
 - Profit Contribution by Product
 - Profit Margin by Product
 
+## Dashboard Screenshots
+
+### Sales Performance Dashboard
+
+![Sales Performance Dashboard](screenshots/01_Sales_Performance_Dashboard.png)
+
+### Profitability Analysis
+
+![Profitability Analysis](screenshots/02_Profitability_Analysis.png)
+
 ## Key Business Insights
 
 ### 1. Geographical Performance
