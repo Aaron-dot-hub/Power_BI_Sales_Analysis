@@ -122,14 +122,3 @@ This demonstrates why total profit and profit margin should be evaluated separat
 ## Project Outcome
 
 This project provided practical experience in data preparation, Power Query, DAX measures, KPI creation, data visualisation, interactive dashboard development, and business insight generation.
-
-
-## Dashboard Previews
-
-### 1. Sales Performance Dashboard
-
-![Sales Performance Dashboard](screenshots/01_Sales_Performance_Dashboard.png)
-
-### 2. Profitability Analysis
-
-![Profitability Analysis](screenshots/02_Profitability_Analysis.png)
